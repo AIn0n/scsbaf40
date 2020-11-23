@@ -13,7 +13,7 @@ Project goals:
 - staggered columns with dimensions fitting my fingers length
 - easy to build with easily obtainable and cheap parts
 - all software written in arduino IDE
-- minimum 40 keys (thats main difference between this project and squiggle or reviung)
+- minimum 40 keys (that's main difference between this project and squiggle or reviung)
 
 ## Parts list
 
@@ -25,7 +25,7 @@ Project goals:
 | 8 | rubber feet | <1$ |
 | 40 | 1N4148 DO-35 diode | <1$ |
 | 40 | MX compatible keycap (1U) | <1$ |
-| 40 | MX compatible switch | 0.2$ (gatheron) |
+| 40 | MX compatible switch | 0.2$ (gateron) |
 
 ## Default layout
 ![layout](https://github.com/SzymonGoldberg/scsbaf40/blob/main/images/keyboard-layout.jpg)
