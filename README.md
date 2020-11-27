@@ -5,6 +5,8 @@ Staggered Columns Split Budget AF 40% ergonomic keyboard
 The SCSBAF40 keyboard is 40% Staggered Columns Split Budget AF ergonomic keyboard.
 Heavly inspired by [REVIUNG34](https://github.com/gtips/reviung) and [Squiggle](https://github.com/ibnuda/Squiggle).
 
+![typing demo](https://www.youtube.com/watch?v=xkb4R93yoao)
+
 ## Overview
 
 Project goals:
