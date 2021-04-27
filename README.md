@@ -1,4 +1,6 @@
 # SCSBAF40
+![GitHub](https://img.shields.io/github/license/SzymonGoldberg/scsbaf40?style=flat-square) ![GitHub Repo stars](https://img.shields.io/github/stars/SzymonGoldberg/SCSBAF40?style=flat-square)
+
 Staggered Columns Split Budget AF 40% ergonomic keyboard
 ![SCSBAF40](https://github.com/SzymonGoldberg/scsbaf40/blob/main/images/126826374_380927173123551_3231730020191401292_n.jpg)
 
