@@ -32,4 +32,4 @@ Project goals:
 | 40 | MX compatible switch | 0.2$ (gateron) |
 
 ## Default layout
-![layout](https://github.com/SzymonGoldberg/scsbaf40/blob/main/images/keyboard-layout.jpg)
+![layout](https://github.com/SzymonGoldberg/scsbaf40/blob/main/images/keyboard-layout.png)

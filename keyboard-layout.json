@@ -2,11 +2,12 @@
   [
     {
       "x": 3,
-      "t": "#000000\n\n\n#cc241d"
+      "t": "#000000\n\n\n#FF004D"
     },
     "\n\n\n3\n\n\n\n\n\nF",
     {
       "x": 8.5,
+      "t": "#7E2553\n\n\n#FF004D",
       "fa": [
         0,
         0,
@@ -14,12 +15,13 @@
         2
       ]
     },
-    "\n\n\nPgDown\n\n\n\n\n\nU"
+    "scroll\n\n\nPgDown\n\n\n\n\n\nU"
   ],
   [
     {
       "y": -0.75,
       "x": 2,
+      "t": "#000000\n\n\n#FF004D",
       "f": 3
     },
     "\n\n\n2\n\n\n\n\n\nW",
@@ -30,14 +32,15 @@
     "\n\n\n+\n\n\n\n\n\nP",
     {
       "x": 6.5,
+      "t": "#7E2553\n\n\n#FF004D",
       "f": 3
     },
-    "\n\n\nenter\n\n\n\n\n\nL",
+    "ptrack\n\n\nhome\n\n\n\n\n\nL",
     {
       "x": 1,
       "f": 3
     },
-    "\n\n\nPgUp\n\n\n\n\n\nY"
+    "scroll up\n\n\nPgUp\n\n\n\n\n\nY"
   ],
   [
     {
@@ -49,11 +52,11 @@
     "G",
     {
       "x": 4.5,
-      "t": "#000000\n\n\n#cc241d",
+      "t": "#000000\n\n\n#FF004D",
       "a": 4,
       "f": 3
     },
-    "\n\n\nhome\n\n\n\n\n\nJ"
+    "\n\n\n\"\n\n\n\n\n\nJ"
   ],
   [
     {
@@ -64,9 +67,10 @@
     "\n\n\n1\n\n\n\n\n\nQ",
     {
       "x": 12.5,
+      "t": "#7E2553\n\n\n#FF004D",
       "f": 3
     },
-    "\n\n\nend\n\n\n\n\n\n;"
+    "ntrack\n\n\nend\n\n\n\n\n\n;"
   ],
   [
     {
@@ -74,42 +78,44 @@
       "t": "#000000",
       "a": 7
     },
-    "Tab",
+    "~",
     {
       "x": 2,
-      "t": "#000000\n\n\n#cc241d",
+      "t": "#7E2553\n\n\n#FF004D",
       "a": 4,
       "f": 3
     },
-    "\n\n\n6\n\n\n\n\n\nS",
+    "LMB\n\n\n6\n\n\n\n\n\nS",
     {
       "x": 8.5,
       "f": 3
     },
-    "\n\n\ndown\n\n\n\n\n\nE"
+    "down\n\n\ndown\n\n\n\n\n\nE"
   ],
   [
     {
       "y": -0.75,
       "x": 2,
+      "t": "#000000\n\n\n#FF004D",
       "f": 3
     },
     "\n\n\n5\n\n\n\n\n\nR",
     {
       "x": 1,
+      "t": "#7E2553\n\n\n#FF004D",
       "f": 3
     },
-    "\n\n\n-\n\n\n\n\n\nT",
+    "MMB\n\n\n-\n\n\n\n\n\nT",
     {
       "x": 6.5,
       "f": 3
     },
-    "\n\n\nleft\n\n\n\n\n\nN",
+    "left\n\n\nleft\n\n\n\n\n\nN",
     {
       "x": 1,
       "f": 3
     },
-    "\n\n\nup\n\n\n\n\n\nI"
+    "up\n\n\nup\n\n\n\n\n\nI"
   ],
   [
     {
@@ -121,81 +127,87 @@
     "D",
     {
       "x": 4.5,
-      "t": "#000000\n\n\n#cc241d",
+      "t": "#7E2553\n\n\n#FF004D",
       "a": 4,
       "f": 3
     },
-    "\n\n\ndelete\n\n\n\n\n\nH"
+    "play\n\n\ndelete\n\n\n\n\n\nH"
   ],
   [
     {
       "y": -0.75,
       "x": 1,
+      "t": "#000000\n\n\n#FF004D",
       "f": 3
     },
     "\n\n\n4\n\n\n\n\n\nA",
     {
       "x": 12.5,
+      "t": "#7E2553\n\n\n#FF004D",
       "f": 3
     },
-    "\n\n\nright\n\n\n\n\n\nO"
+    "right\n\n\nright\n\n\n\n\n\nO"
   ],
   [
     {
       "y": -0.75,
-      "t": "#000000",
-      "a": 7
+      "t": "#000000\n\n\n#FF004D",
+      "f": 3
     },
-    "Esc",
+    "\n\n\nesc\n\n\n\n\n\nbacksp",
     {
       "x": 2,
-      "t": "#000000\n\n\n#cc241d",
-      "a": 4,
       "f": 3
     },
     "\n\n\n9\n\n\n\n\n\nC",
     {
       "x": 8.5,
+      "t": "#7E2553\n\n\n#FF004D",
       "f": 3
     },
-    "\n\n\n'\n\n\n\n\n\n,"
+    "volume\n\n\n'\n\n\n\n\n\n,"
   ],
   [
     {
       "y": -0.75,
       "x": 2,
+      "t": "#000000\n\n\n#FF004D",
       "f": 3
     },
     "\n\n\n8\n\n\n\n\n\nX",
     {
       "x": 1,
+      "t": "#7E2553\n\n\n#FF004D",
       "f": 3
     },
-    "\n\n\n0\n\n\n\n\n\nV",
+    "RMB\n\n\n0\n\n\n\n\n\nV",
     {
       "x": 6.5,
-      "t": "#000000",
-      "a": 7
+      "t": "#000000\n\n\n#FF004D",
+      "f": 3
     },
-    "M",
+    "\n\n\n]\n\n\n\n\n\nM",
     {
-      "x": 1
+      "x": 1,
+      "t": "#7E2553"
     },
-    "."
+    "volume up\n\n\n\n\n\n\n\n\n."
   ],
   [
     {
       "y": -0.75,
-      "x": 5
+      "x": 5,
+      "t": "#000000",
+      "a": 7
     },
     "B",
     {
       "x": 4.5,
-      "t": "#000000\n\n\n#cc241d",
+      "t": "#000000\n\n\n#FF004D",
       "a": 4,
       "f": 3
     },
-    "\n\n\n~\n\n\n\n\n\nK"
+    "\n\n\n[\n\n\n\n\n\nK"
   ],
   [
     {
@@ -216,49 +228,49 @@
       "t": "#000000",
       "a": 7
     },
-    "Shift",
+    "tab",
     {
-      "x": 2
+      "x": 2,
+      "t": "#000000\n#7E2553\n\n\n\n\n#7E2553",
+      "a": 5
     },
-    "["
+    "\nlayer\n\n\n\n\nmouse"
   ],
   [
     {
       "y": -0.75,
-      "x": 2
+      "x": 2,
+      "t": "#000000",
+      "a": 7
     },
-    "Alt",
+    "",
     {
       "x": 1
     },
-    "]"
+    "enter"
   ],
   [
     {
       "y": -0.5,
       "x": 1
     },
-    "Super"
+    ""
   ],
   [
     {
       "y": -0.75
     },
-    "Ctrl"
+    ""
   ],
   [
     {
       "y": -0.5,
-      "x": 5,
-      "t": "#000000\n\n\n#cc241d",
-      "a": 4,
-      "f": 3
+      "x": 5
     },
-    "\n\n\nback\n\n\n\n\n\nspace",
+    "space",
     {
-      "x": 3.5,
-      "t": "#cc241d",
-      "a": 7
+      "x": 4.5,
+      "t": "#FF004D"
     },
     "mod"
   ]
